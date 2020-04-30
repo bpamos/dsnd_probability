@@ -1,6 +1,7 @@
 # Unit tests to check your solution
-
 import unittest
+
+from src import *
 
 class TestGaussianClass(unittest.TestCase):
     def setUp(self):
